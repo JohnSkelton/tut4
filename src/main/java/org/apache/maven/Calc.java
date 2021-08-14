@@ -9,7 +9,7 @@ public class Calc
     }
     public static int subtract(int a, int b)
     {
-            int sum = a + b;
-            return sum;
+            int answer = a - b;
+            return answer;
     }
 }
